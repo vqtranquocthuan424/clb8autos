@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+CLB8 - clb8.autos - TRANG CHỦ CHÍNH THỨC UY TÍN HÀNG ĐẦU VIỆT NAM
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`CLB8 <https://clb8.autos/>`_ là nhà cái cá cược trực tuyến uy tín hàng đầu Việt Nam và châu Á. Tham gia trải nghiệm casino, thể thao, đá gà trực tuyến, bắn cá ngay!
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Website: https://clb8.autos/
 
-   This project is under active development.
+Địa chỉ: 44/8 Lam Sơn, Phường 6, Bình Thạnh, Hồ Chí Minh, Việt Nam
 
-Contents
---------
+Email: u888plus@gmail.com
 
-.. toctree::
+Điện thoại: 0779854198
 
-   usage
-   api
+#clb8 #nhacaiclb8 #trangchuclb8 #clb8autos #nhacaiclb8autos
